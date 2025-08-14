@@ -29,4 +29,4 @@ public class Felipe() {
   
 ## Main Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,postman,html,css,js,ts,angular,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,postman,docker,html,css,js,ts,angular,figma)](https://skillicons.dev)
