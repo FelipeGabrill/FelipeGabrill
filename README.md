@@ -6,8 +6,9 @@ public class Felipe() {
   String name = "Felipe Gabriel";
   String role = "Dev Back-end";
 
-  String skillset = "English (b1)";
-  String languages = "Java, JavaScript, HTML, CSS";
+  String skillset = "English (b2)";
+  String[] languages = {"Java", "JavaScript", "HTML", "CSS"};
+  String[] frameworks = {"Angular", "SpringBoot"};
 }
 ```
 
@@ -28,4 +29,4 @@ public class Felipe() {
   
 ## Main Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,html,css,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,postman,html,css,js,ts,angular,figma)](https://skillicons.dev)
